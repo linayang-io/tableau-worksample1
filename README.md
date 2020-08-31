@@ -1,1 +1,8 @@
 # Data Visualization with Tableau
+Using open source 311 data from NYC Open Data, this dashboard I created in Tableau ranks each borough by highest volume of complaints and shows the geographical hot spots for each type of complaint. The original data set can be found [here](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9). The data set is very large, so I pulled only 2 months of data from January and February 2016.
+# NYC 311 Service Requests
+NYC 311 receives thousands of requests from citizens related to many different non-emergency services, including but noise, graffitti, and heat and water. These requests are then forwarded to the appropriate government agencies. The file is very large due the frequency and density of complaints, but with just 2 months worth of data some interesting trends can be extrapolated. 
+# Dashboard Demo
+![tableau dashboard demo]()
+# Insight and Conclusion
+311 service requests spanned across all five boroughs. Brooklyn had the most complaints, followed by Queens, the Bronx, Manhattan, and Staten Island. Heat and water complaints are submitted the most frequently across all boroughs. This could be correlated with seasonality as January and February can have harsher winter weather compared to other months. It is also interesting to see that noise complaints were one of the top service requests in Brooklyn with peaks on Saturdays and Sundays. The average median resolution time of these requests across all five borough all fall around 5 days. However, we can see that Staten Island, Bronx, and Brooklyn have larger disparities in closing out service requests compared to Manhattan and Queens.   
